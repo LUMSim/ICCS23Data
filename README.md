@@ -13,8 +13,9 @@ The data has columns related to the parameters used to run that simulation, and 
 
 ### Columns Related to Parameters
 
+For this data, the number of agents is always 200. The rest of the parameters for a given run can be found in each row under these columns:
+
 * 'run': for a particular parameter combination, each run of that parameter combination is number 0, 1, 2, or 3. This value is for tracking results, and is not a parameter to the simulation.
-* 'bug count': agent count. For this data, agent count is always 200.
 * 'min-ideal-temp': minimum ideal temperature for agents
 * 'min-output-heat': minimum output level of heat by agents
 * 'max-ideal-temp': maximum ideal temperature for agents
