@@ -38,4 +38,4 @@ The main metric in this model is the unhappiness level of agents. Agents are unh
 
 ## Data Files
 
-There are two data files in this repository.
+There are two data files in this repository. The 2-way file contains all results from the 2-way covering arrays, and the 3-way file contains all results from the 3-way covering array.
